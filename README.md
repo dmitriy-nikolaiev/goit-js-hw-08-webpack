@@ -1,1 +1,1 @@
-# goit-js-hw-08-webpack
+# goit-js-hw-09-webpack

@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-09-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriy-nikolaiev/goit-js-hw-09-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitriy-nikolaiev/goit-js-hw-09-webpack/issues"
+  },
+  "homepage": "https://github.com/dmitriy-nikolaiev/goit-js-hw-09-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0"
+  }
+}

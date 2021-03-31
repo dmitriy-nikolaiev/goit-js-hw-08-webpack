@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./css/common.scss"],"names":[],"mappings":"AAAA,KACE,yBAEF,GACE,c","file":"main.css","sourcesContent":["body {\r\n  background-color: antiquewhite;\r\n}\r\nh1 {\r\n  color: rgb(93, 24, 158);\r\n}\r\n"],"sourceRoot":""}
